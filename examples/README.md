@@ -22,6 +22,6 @@ it allows to decide, which launching options are supported in the run-time.
 * a2a
 * webui (it can run standalone or with restapi or a2a).
 
-Run `go run ./example/quickstart/main.go help` for details
+Run `go run ./examples/quickstart/main.go help` for details
 
 As an alternative, you may want to use `prod.NewLauncher()` which only builds-in restapi and a2a launchers.
